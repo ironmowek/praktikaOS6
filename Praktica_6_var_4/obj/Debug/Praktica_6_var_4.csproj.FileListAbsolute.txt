@@ -1,0 +1,7 @@
+C:\Users\Александра\source\repos\Praktica_6_var_4\bin\Debug\Praktica_6_var_4.exe.config
+C:\Users\Александра\source\repos\Praktica_6_var_4\bin\Debug\Praktica_6_var_4.exe
+C:\Users\Александра\source\repos\Praktica_6_var_4\bin\Debug\Praktica_6_var_4.pdb
+C:\Users\Александра\source\repos\Praktica_6_var_4\obj\Debug\Praktica_6_var_4.csproj.AssemblyReference.cache
+C:\Users\Александра\source\repos\Praktica_6_var_4\obj\Debug\Praktica_6_var_4.csproj.CoreCompileInputs.cache
+C:\Users\Александра\source\repos\Praktica_6_var_4\obj\Debug\Praktica_6_var_4.exe
+C:\Users\Александра\source\repos\Praktica_6_var_4\obj\Debug\Praktica_6_var_4.pdb
